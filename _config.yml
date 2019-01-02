@@ -116,7 +116,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/matthew-dunne-02842221/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
