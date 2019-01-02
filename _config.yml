@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Matthew Dunne"
-  avatar           : "/images/headshot.png"
+  avatar           : "/images/headshot.PNG"
   bio              : "Lawyer turned Data Scientist"
   location         : "Chicago, IL"
   email            :
