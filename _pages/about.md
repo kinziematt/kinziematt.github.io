@@ -3,7 +3,8 @@ title: "About Me"
 permalink: /about/
 header:
    image: "/images/UC.jpeg"
-
+footer:
+   image: "/images/IU.jpg"
 
 ---
 
