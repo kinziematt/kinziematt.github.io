@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /machine-learning/
-title: "Machine Learning Work"
+permalink: /nlp/
+title: "Natural Language Processing"
 author_profile: true
 header:
-   image: "/images/machinelearning.jpg"
+   image: "/images/nlp.jpg"
 ---
 
 
