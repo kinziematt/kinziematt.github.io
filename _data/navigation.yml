@@ -4,8 +4,10 @@ main:
     url: /about/
   - title: "Machine Learning"
     url: /machine-learning/
+    tags: [machine-learning]
   - title: "Natural Language Processing"
     url: /nlp/
+    tags: [nlp]
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
