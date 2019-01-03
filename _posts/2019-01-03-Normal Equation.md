@@ -1,7 +1,7 @@
 ---
 title: "The Normal Equation"
 date: 2019-01-03
-tags: [machine learning, linear regression]
+tags: [machine learning]
 excerpt: "Machine Learning, Linear Regression, Normal Equation"
 ---
 
