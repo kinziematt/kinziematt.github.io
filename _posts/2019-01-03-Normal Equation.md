@@ -32,5 +32,5 @@ Use Linear equation normal equation to predict water temperature T_degC
 	Y=data['T_degC']
 	#split into training and test
 	X_train, X_test, y_train, y_test = train_test_split(X, Y, random_state=0)
-	X_train.head()
-```
+	print(X_train.head())
+```  
